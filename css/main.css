@@ -9,3 +9,15 @@ html {
 
 /* font-family: 'Karma', serif; */
 /* font-family: 'Oswald', sans-serif; */
+
+img {
+  width: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+ul {
+  text-decoration: none;
+}
